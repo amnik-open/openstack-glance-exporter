@@ -1,0 +1,16 @@
+exporter_port: 8000
+exporter_host: 0.0.0.0
+os_config:
+  auth_url: url
+  region_name: rgion
+  project_name: project
+  username: user
+  password: pass
+  user_domain: domain
+  project_domain: domain
+  interface: internal
+  endpoint_type: internalURL
+gitlab_info:
+  url_iac_images_file: url
+  token: token
+  branch: branch
